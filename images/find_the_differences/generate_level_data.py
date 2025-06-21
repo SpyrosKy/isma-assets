@@ -4,6 +4,7 @@ from skimage.metrics import structural_similarity as ssim
 import imutils
 import os
 import re
+import json
 import shutil # Added for file operations
 
 # --- CONFIGURATION ---
@@ -128,6 +129,10 @@ def process_image_pair(original_path, modified_path):
     print(f"  -> Trouvé et retenu {len(difference_spots)}/{NUM_DIFFERENCES_TARGET} différences pour {os.path.basename(original_path)} (méthode robuste).")
     return difference_spots
 
+
+
+
+''' 
 
 def generate_dart_code():
     """
@@ -272,3 +277,112 @@ class LevelData {
 
 if __name__ == "__main__":
     generate_dart_code()
+
+    '''
+
+
+
+JSON_OUTPUT_FILE = "/Users/spyridon/Documents/GitHub/isma-assets/data/find_the_differences/level_data.json"
+
+def generate_json_file():
+    print("Démarrage du traitement des images...")
+
+    all_files = sorted(os.listdir(IMAGES_DIRECTORY))
+    image_pairs = []
+
+    for filename in all_files:
+        if "_original" in filename:
+            modified_filename = filename.replace("_original", "_modified")
+            if modified_filename in all_files:
+                image_pairs.append({
+                    "original": filename,
+                    "modified": modified_filename
+                })
+
+    if not image_pairs:
+        print("Erreur: Aucun couple d'images `_original` et `_modified` trouvé.")
+        return
+
+    os.makedirs(INVALID_IMAGES_FOLDER, exist_ok=True)
+    print(f"Les images invalides seront déplacées vers: {INVALID_IMAGES_FOLDER}")
+
+    all_levels = []
+    level_id_counter = 1
+
+    for pair in image_pairs:
+        base_name = pair['original'].split("_original")[0]
+        print(f"\nTraitement de '{base_name}'...")
+
+        original_full_path = os.path.join(IMAGES_DIRECTORY, pair['original'])
+        modified_full_path = os.path.join(IMAGES_DIRECTORY, pair['modified'])
+
+        spots = process_image_pair(original_full_path, modified_full_path)
+
+        if spots is None:
+            print(f"  -> Déplacement des images car différences insuffisantes.")
+            try:
+                shutil.move(original_full_path, os.path.join(INVALID_IMAGES_FOLDER, pair['original']))
+                shutil.move(modified_full_path, os.path.join(INVALID_IMAGES_FOLDER, pair['modified']))
+            except Exception as e:
+                print(f"     Erreur de déplacement: {e}")
+            continue
+
+        if not spots:
+            print(f"  -> Aucune différence détectée, niveau ignoré.")
+            continue
+
+        level_data = {
+            "levelId": str(level_id_counter),
+            "imageOriginalPath": ASSETS_PATH_PREFIX + pair['original'],
+            "imageModifiedPath": ASSETS_PATH_PREFIX + pair['modified'],
+            "totalDifferences": len(spots),
+            "differences": [
+                {
+                    "id": f"diff{i+1}",
+                    "x": spot['x'],
+                    "y": spot['y'],
+                    "radius": spot['radius']
+                }
+                for i, spot in enumerate(spots)
+            ]
+        }
+
+        all_levels.append(level_data)
+        print(f"  -> Niveau {level_id_counter} ajouté.")
+        level_id_counter += 1
+
+    # Enregistrement du JSON
+    output_dir = os.path.dirname(JSON_OUTPUT_FILE)
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+
+    with open(JSON_OUTPUT_FILE, 'w', encoding='utf-8') as f:
+        f.write('[\n')
+        for idx, level in enumerate(all_levels):
+            f.write('  {\n')
+            f.write(f'    "levelId": "{level["levelId"]}",\n')
+            f.write(f'    "imageOriginalPath": "{level["imageOriginalPath"]}",\n')
+            f.write(f'    "imageModifiedPath": "{level["imageModifiedPath"]}",\n')
+            f.write(f'    "totalDifferences": {level["totalDifferences"]},\n')
+            f.write('    "differences": [\n')
+            for i, spot in enumerate(level["differences"]):
+                spot_line = f'      {{"id": "{spot["id"]}", "x": {spot["x"]}, "y": {spot["y"]}, "radius": {spot["radius"]}}}'
+                if i < len(level["differences"]) - 1:
+                    spot_line += ','
+                f.write(spot_line + '\n')
+            f.write('    ]\n')
+            f.write('  }')
+            if idx < len(all_levels) - 1:
+                f.write(',\n')
+            else:
+                f.write('\n')
+        f.write(']\n')
+
+
+
+
+    print("\n✅ Export JSON terminé.")
+    print(f"Fichier exporté : {JSON_OUTPUT_FILE}")
+
+if __name__ == "__main__":
+    generate_json_file()
