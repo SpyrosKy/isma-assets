@@ -28,20 +28,5 @@
       {"id": "diff6", "x": 0.1881, "y": 0.3204, "radius": 0.045},
       {"id": "diff7", "x": 0.672, "y": 0.1891, "radius": 0.045}
     ]
-  },
-  {
-    "levelId": "18",
-    "imageOriginalPath": "assets/images/find_the_differences/level9_original.png",
-    "imageModifiedPath": "assets/images/find_the_differences/level9_modified.png",
-    "totalDifferences": 7,
-    "differences": [
-      {"id": "diff1", "x": 0.3597, "y": 0.8962, "radius": 0.045},
-      {"id": "diff2", "x": 0.2573, "y": 0.4672, "radius": 0.045},
-      {"id": "diff3", "x": 0.5946, "y": 0.7045, "radius": 0.045},
-      {"id": "diff4", "x": 0.5012, "y": 0.3794, "radius": 0.045},
-      {"id": "diff5", "x": 0.503, "y": 0.1988, "radius": 0.045},
-      {"id": "diff6", "x": 0.426, "y": 0.2647, "radius": 0.045},
-      {"id": "diff7", "x": 0.5478, "y": 0.333, "radius": 0.045}
-    ]
   }
 ]
