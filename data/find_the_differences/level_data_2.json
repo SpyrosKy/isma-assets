@@ -1,6 +1,6 @@
 [
 {
-    "levelId": "16",
+    "levelId": "26",
     "imageOriginalPath": "assets/images/find_the_differences/level7_original.png",
     "imageModifiedPath": "assets/images/find_the_differences/level7_modified.png",
     "totalDifferences": 7,
@@ -15,7 +15,7 @@
     ]
   },
   {
-    "levelId": "17",
+    "levelId": "27",
     "imageOriginalPath": "assets/images/find_the_differences/level8_original.png",
     "imageModifiedPath": "assets/images/find_the_differences/level8_modified.png",
     "totalDifferences": 7,
