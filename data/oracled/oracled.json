@@ -1,82 +1,80 @@
 [
-    {
-      "title": "Arabesque",
-      "imageUrl": "https://raw.githubusercontent.com/SpyrosKy/isma-assets/main/images/oracled/oracle_arabesque.jpg",
-      "shortMessage": "L’ELEVATION SPIRITUELLE.",
-      "longMessage": "l’aspiration à s’élever au delà du quotidien"
-    },
-    {
-      "title": "Cinquième",
-      "imageUrl": "https://raw.githubusercontent.com/SpyrosKy/isma-assets/main/images/oracled/oracle_cinquime.jpg",
-      "shortMessage": "DESIR D’ATTEINDRE DES SOMMETS.",
-      "longMessage": "maturité, détermination et discipline"
-    },
-    {
-      "title": "Demi-plié",
-      "imageUrl": "https://raw.githubusercontent.com/SpyrosKy/isma-assets/main/images/oracled/oracle_demiplie.jpg",
-      "shortMessage": "L’ENRACINEMENT PROFOND.",
-      "longMessage": "La connexion avec la terre et le retour à l’essentiel"
-    },
-    {
-      "title": "Développé seconde",
-      "imageUrl": "https://raw.githubusercontent.com/SpyrosKy/isma-assets/main/images/oracled/oracle_devseconde.jpg",
-      "shortMessage": "L’AMBITION POSEE.",
-      "longMessage": "viser haut avec constance et finesse"
-    },
-    {
-      "title": "Grand écart facial",
-      "imageUrl": "https://raw.githubusercontent.com/SpyrosKy/isma-assets/main/images/oracled/oracle_grandecartfacial.jpg",
-      "shortMessage": "L’HARMONIE INTERIEURE.",
-      "longMessage": "«confiance et liberté» qui naissent de l’ouverture et de l’acceptation, sans réserve"
-    },
-    {
-      "title": "Grand jeté",
-      "imageUrl": "https://raw.githubusercontent.com/SpyrosKy/isma-assets/main/images/oracled/oracle_grandjete.jpg",
-      "shortMessage": "PRENDRE SON ENVOL.",
-      "longMessage": "audace, liberté et élan vers l’inconnu"
-    },
-    {
-      "title": "Grand plié première",
-      "imageUrl": "https://raw.githubusercontent.com/SpyrosKy/isma-assets/main/images/oracled/oracle_grandpliepremiere.jpg",
-      "shortMessage": "LA TRANSFORMATION.",
-      "longMessage": "Capacité à descendre en soi et à remonter avec davantage de force"
-
-    },
-    {
-      "title": "Grand plié seconde",
-      "imageUrl": "https://raw.githubusercontent.com/SpyrosKy/isma-assets/main/images/oracled/oracle_grandplieseconde.jpg",
-      "shortMessage": "GRANDEUR INTERIEURE.",
-      "longMessage": "vulnérabilité et profonde stabilité"
-    },
-    {
-      "title": "Première position",
-      "imageUrl": "https://raw.githubusercontent.com/SpyrosKy/isma-assets/main/images/oracled/oracle_premiereposition.jpg",
-      "shortMessage": "EQUILIBRE ET PRESENCE.",
-      "longMessage": "La fondation personnelle et le calme intérieur."
-    },
-    {
-      "title": "Quatrième",
-      "imageUrl": "https://raw.githubusercontent.com/SpyrosKy/isma-assets/main/images/oracled/oracle_quatrieme.jpg",
-      "shortMessage": "LA DUALITE HARMONIEUSE.",
-      "longMessage": "l’équilibre parfait entre l’Ancrage et la propulsion"
-    },
-    {
-      "title": "Seconde",
-      "imageUrl": "https://raw.githubusercontent.com/SpyrosKy/isma-assets/main/images/oracled/oracle_seconde.jpg",
-      "shortMessage": "CONFIANCE EN SOI, GENEROSITE.",
-      "longMessage": "et l’Ouverture aux autres"
-    },
-    {
-      "title": "Sissonne",
-      "imageUrl": "https://raw.githubusercontent.com/SpyrosKy/isma-assets/main/images/oracled/oracle_sissone.jpg",
-      "shortMessage": "L’AUDACE.",
-      "longMessage": "Quitter une base stable et accepter les transitions"
-    },
-    {
-      "title": "Saut de chat",
-      "imageUrl": "https://raw.githubusercontent.com/SpyrosKy/isma-assets/main/images/oracled/saut%20de%20chat.jpg",
-      "shortMessage": "PUISSANCE ET DELICATESSE.",
-      "longMessage": "bondir avec confiance vers l’inconnu"
-    }
-  ]
-  
+  {
+    "title": "Arabesque",
+    "imageUrl": "https://raw.githubusercontent.com/SpyrosKy/isma-assets/main/images/oracled/oracle_danseuse_arabesque.jpg",
+    "shortMessage": "L’ELEVATION SPIRITUELLE.",
+    "longMessage": "l’aspiration à s’élever au delà du quotidien"
+  },
+  {
+    "title": "Cinquième",
+    "imageUrl": "https://raw.githubusercontent.com/SpyrosKy/isma-assets/main/images/oracled/oracle_danseuse_cinquieme.jpg",
+    "shortMessage": "DESIR D’ATTEINDRE DES SOMMETS.",
+    "longMessage": "maturité, détermination et discipline"
+  },
+  {
+    "title": "Demi-plié",
+    "imageUrl": "https://raw.githubusercontent.com/SpyrosKy/isma-assets/main/images/oracled/oracle_danseuse_demiplie.jpg",
+    "shortMessage": "L’ENRACINEMENT PROFOND.",
+    "longMessage": "La connexion avec la terre et le retour à l’essentiel"
+  },
+  {
+    "title": "Développé seconde",
+    "imageUrl": "https://raw.githubusercontent.com/SpyrosKy/isma-assets/main/images/oracled/oracle_danseuse_developeseconde.jpg",
+    "shortMessage": "L’AMBITION POSEE.",
+    "longMessage": "viser haut avec constance et finesse"
+  },
+  {
+    "title": "Facial",
+    "imageUrl": "https://raw.githubusercontent.com/SpyrosKy/isma-assets/main/images/oracled/oracle_danseuse_facial.jpg",
+    "shortMessage": "HARMONIE ET ALIGNEMENT.",
+    "longMessage": "trouver la beauté dans la frontalité et la vérité du regard"
+  },
+  {
+    "title": "Grand plié seconde",
+    "imageUrl": "https://raw.githubusercontent.com/SpyrosKy/isma-assets/main/images/oracled/oracle_danseuse_gplieseconde.jpg",
+    "shortMessage": "GRANDEUR INTERIEURE.",
+    "longMessage": "vulnérabilité et profonde stabilité"
+  },
+  {
+    "title": "Grand plié",
+    "imageUrl": "https://raw.githubusercontent.com/SpyrosKy/isma-assets/main/images/oracled/oracle_danseuse_grand%20plie.jpg",
+    "shortMessage": "LA TRANSFORMATION.",
+    "longMessage": "descendre profondément en soi pour mieux se relever"
+  },
+  {
+    "title": "Grand jeté",
+    "imageUrl": "https://raw.githubusercontent.com/SpyrosKy/isma-assets/main/images/oracled/oracle_danseuse_grandjete.jpg",
+    "shortMessage": "PRENDRE SON ENVOL.",
+    "longMessage": "audace, liberté et élan vers l’inconnu"
+  },
+  {
+    "title": "Première",
+    "imageUrl": "https://raw.githubusercontent.com/SpyrosKy/isma-assets/main/images/oracled/oracle_danseuse_premiere.jpg",
+    "shortMessage": "EQUILIBRE ET PRESENCE.",
+    "longMessage": "La fondation personnelle et le calme intérieur."
+  },
+  {
+    "title": "Quatrième",
+    "imageUrl": "https://raw.githubusercontent.com/SpyrosKy/isma-assets/main/images/oracled/oracle_danseuse_quatrieme.jpg",
+    "shortMessage": "LA DUALITE HARMONIEUSE.",
+    "longMessage": "l’équilibre parfait entre l’Ancrage et la propulsion"
+  },
+  {
+    "title": "Saut de chat",
+    "imageUrl": "https://raw.githubusercontent.com/SpyrosKy/isma-assets/main/images/oracled/oracle_danseuse_sautdechat.jpg",
+    "shortMessage": "PUISSANCE ET DELICATESSE.",
+    "longMessage": "bondir avec confiance vers l’inconnu"
+  },
+  {
+    "title": "Seconde",
+    "imageUrl": "https://raw.githubusercontent.com/SpyrosKy/isma-assets/main/images/oracled/oracle_danseuse_seconde.jpg",
+    "shortMessage": "CONFIANCE EN SOI, GENEROSITE.",
+    "longMessage": "et l’Ouverture aux autres"
+  },
+  {
+    "title": "Sissone",
+    "imageUrl": "https://raw.githubusercontent.com/SpyrosKy/isma-assets/main/images/oracled/oracle_danseuse_sissone.jpg",
+    "shortMessage": "L’AUDACE.",
+    "longMessage": "Quitter une base stable et accepter les transitions"
+  }
+]
