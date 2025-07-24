@@ -275,13 +275,13 @@
     "imageModifiedPath": "assets/images/find_the_differences/level30_modified.jpg",
     "totalDifferences": 7,
     "differences": [
-          {"id": "diff1", "x": 0.6722, "y": 0.6567, "radius": 0.045},
-      {"id": "diff2", "x": 0.5328, "y": 0.2925, "radius": 0.045},
-      {"id": "diff3", "x": 0.5078, "y": 0.9117, "radius": 0.045},
-      {"id": "diff4", "x": 0.1939, "y": 0.4717, "radius": 0.045},
-      {"id": "diff5", "x": 0.6183, "y": 0.3613, "radius": 0.045},
-      {"id": "diff6", "x": 0.8139, "y": 0.9208, "radius": 0.045},
-      {"id": "diff7", "x": 0.7567, "y": 0.0621, "radius": 0.045}
+      {"id": "diff1", "x": 0.3556, "y": 0.1475, "radius": 0.045},
+      {"id": "diff2", "x": 0.1728, "y": 0.1163, "radius": 0.045},
+      {"id": "diff3", "x": 0.4067, "y": 0.4733, "radius": 0.045},
+      {"id": "diff4", "x": 0.1294, "y": 0.335, "radius": 0.045},
+      {"id": "diff5", "x": 0.61, "y": 0.2646, "radius": 0.045},
+      {"id": "diff6", "x": 0.6144, "y": 0.1783, "radius": 0.045},
+      {"id": "diff7", "x": 0.5228, "y": 0.2029, "radius": 0.045}
     ]
   },
   {
