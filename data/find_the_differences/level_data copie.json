@@ -1,0 +1,17 @@
+[
+  {
+    "levelId": "1",
+    "imageOriginalPath": "assets/images/find_the_differences/level61_original.JPEG",
+    "imageModifiedPath": "assets/images/find_the_differences/level61_modified.JPEG",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.2578, "y": 0.1846, "radius": 0.045},
+      {"id": "diff2", "x": 0.7422, "y": 0.7863, "radius": 0.045},
+      {"id": "diff3", "x": 0.4772, "y": 0.8825, "radius": 0.045},
+      {"id": "diff4", "x": 0.335, "y": 0.1008, "radius": 0.045},
+      {"id": "diff5", "x": 0.7806, "y": 0.255, "radius": 0.045},
+      {"id": "diff6", "x": 0.7117, "y": 0.3008, "radius": 0.045},
+      {"id": "diff7", "x": 0.6072, "y": 0.3846, "radius": 0.045}
+    ]
+  }
+]
