@@ -1,8 +1,128 @@
 [
   {
     "levelId": "1",
-    "imageOriginalPath": "assets/images/find_the_differences/level19_original copie.jpg",
-    "imageModifiedPath": "assets/images/find_the_differences/level19_modified copie.jpg",
+    "imageOriginalPath": "assets/images/find_the_differences/level10_original.png",
+    "imageModifiedPath": "assets/images/find_the_differences/level10_modified.png",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.3811, "y": 0.3221, "radius": 0.045},
+      {"id": "diff2", "x": 0.74, "y": 0.5935, "radius": 0.045},
+      {"id": "diff3", "x": 0.0839, "y": 0.6139, "radius": 0.045},
+      {"id": "diff4", "x": 0.4094, "y": 0.868, "radius": 0.045},
+      {"id": "diff5", "x": 0.2639, "y": 0.2478, "radius": 0.045},
+      {"id": "diff6", "x": 0.3617, "y": 0.6434, "radius": 0.045},
+      {"id": "diff7", "x": 0.5794, "y": 0.3397, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "2",
+    "imageOriginalPath": "assets/images/find_the_differences/level11_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level11_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.295, "y": 0.4017, "radius": 0.045},
+      {"id": "diff2", "x": 0.7044, "y": 0.42, "radius": 0.045},
+      {"id": "diff3", "x": 0.4283, "y": 0.4433, "radius": 0.045},
+      {"id": "diff4", "x": 0.3633, "y": 0.4838, "radius": 0.045},
+      {"id": "diff5", "x": 0.1706, "y": 0.5854, "radius": 0.045},
+      {"id": "diff6", "x": 0.5517, "y": 0.5262, "radius": 0.045},
+      {"id": "diff7", "x": 0.9039, "y": 0.6308, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "3",
+    "imageOriginalPath": "assets/images/find_the_differences/level12_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level12_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.4367, "y": 0.7775, "radius": 0.045},
+      {"id": "diff2", "x": 0.1617, "y": 0.7771, "radius": 0.045},
+      {"id": "diff3", "x": 0.6033, "y": 0.4121, "radius": 0.045},
+      {"id": "diff4", "x": 0.1761, "y": 0.8838, "radius": 0.045},
+      {"id": "diff5", "x": 0.66, "y": 0.6238, "radius": 0.045},
+      {"id": "diff6", "x": 0.5911, "y": 0.2625, "radius": 0.045},
+      {"id": "diff7", "x": 0.1928, "y": 0.5571, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "4",
+    "imageOriginalPath": "assets/images/find_the_differences/level13_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level13_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.2356, "y": 0.1896, "radius": 0.045},
+      {"id": "diff2", "x": 0.4228, "y": 0.8196, "radius": 0.045},
+      {"id": "diff3", "x": 0.5561, "y": 0.5667, "radius": 0.045},
+      {"id": "diff4", "x": 0.5661, "y": 0.0575, "radius": 0.045},
+      {"id": "diff5", "x": 0.8994, "y": 0.23, "radius": 0.045},
+      {"id": "diff6", "x": 0.6989, "y": 0.8221, "radius": 0.045},
+      {"id": "diff7", "x": 0.635, "y": 0.1142, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "5",
+    "imageOriginalPath": "assets/images/find_the_differences/level15_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level15_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.0433, "y": 0.2804, "radius": 0.045},
+      {"id": "diff2", "x": 0.7467, "y": 0.7554, "radius": 0.045},
+      {"id": "diff3", "x": 0.4544, "y": 0.1108, "radius": 0.045},
+      {"id": "diff4", "x": 0.4294, "y": 0.9437, "radius": 0.045},
+      {"id": "diff5", "x": 0.5683, "y": 0.2787, "radius": 0.045},
+      {"id": "diff6", "x": 0.5644, "y": 0.1938, "radius": 0.045},
+      {"id": "diff7", "x": 0.3622, "y": 0.355, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "6",
+    "imageOriginalPath": "assets/images/find_the_differences/level16_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level16_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.3556, "y": 0.4963, "radius": 0.045},
+      {"id": "diff2", "x": 0.4917, "y": 0.32, "radius": 0.045},
+      {"id": "diff3", "x": 0.5678, "y": 0.2796, "radius": 0.045},
+      {"id": "diff4", "x": 0.2739, "y": 0.76, "radius": 0.045},
+      {"id": "diff5", "x": 0.8256, "y": 0.6325, "radius": 0.045},
+      {"id": "diff6", "x": 0.5411, "y": 0.1333, "radius": 0.045},
+      {"id": "diff7", "x": 0.5322, "y": 0.2104, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "7",
+    "imageOriginalPath": "assets/images/find_the_differences/level17_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level17_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.4033, "y": 0.8433, "radius": 0.045},
+      {"id": "diff2", "x": 0.8944, "y": 0.4988, "radius": 0.045},
+      {"id": "diff3", "x": 0.2122, "y": 0.7733, "radius": 0.045},
+      {"id": "diff4", "x": 0.2478, "y": 0.3692, "radius": 0.045},
+      {"id": "diff5", "x": 0.7461, "y": 0.6842, "radius": 0.045},
+      {"id": "diff6", "x": 0.45, "y": 0.2554, "radius": 0.045},
+      {"id": "diff7", "x": 0.4361, "y": 0.1988, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "8",
+    "imageOriginalPath": "assets/images/find_the_differences/level18_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level18_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.64, "y": 0.8946, "radius": 0.045},
+      {"id": "diff2", "x": 0.8333, "y": 0.6763, "radius": 0.045},
+      {"id": "diff3", "x": 0.4317, "y": 0.0946, "radius": 0.045},
+      {"id": "diff4", "x": 0.09, "y": 0.3029, "radius": 0.045},
+      {"id": "diff5", "x": 0.5411, "y": 0.7146, "radius": 0.045},
+      {"id": "diff6", "x": 0.22, "y": 0.6863, "radius": 0.045},
+      {"id": "diff7", "x": 0.1489, "y": 0.4188, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "9",
+    "imageOriginalPath": "assets/images/find_the_differences/level19_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level19_modified.jpg",
     "totalDifferences": 7,
     "differences": [
       {"id": "diff1", "x": 0.6722, "y": 0.6567, "radius": 0.045},
@@ -12,6 +132,636 @@
       {"id": "diff5", "x": 0.6183, "y": 0.3613, "radius": 0.045},
       {"id": "diff6", "x": 0.8139, "y": 0.9208, "radius": 0.045},
       {"id": "diff7", "x": 0.7567, "y": 0.0621, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "10",
+    "imageOriginalPath": "assets/images/find_the_differences/level1_original.png",
+    "imageModifiedPath": "assets/images/find_the_differences/level1_modified.png",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.6544, "y": 0.1133, "radius": 0.045},
+      {"id": "diff2", "x": 0.1856, "y": 0.7254, "radius": 0.045},
+      {"id": "diff3", "x": 0.4794, "y": 0.7204, "radius": 0.045},
+      {"id": "diff4", "x": 0.3289, "y": 0.495, "radius": 0.045},
+      {"id": "diff5", "x": 0.6361, "y": 0.2925, "radius": 0.045},
+      {"id": "diff6", "x": 0.395, "y": 0.4242, "radius": 0.045},
+      {"id": "diff7", "x": 0.5478, "y": 0.315, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "11",
+    "imageOriginalPath": "assets/images/find_the_differences/level20_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level20_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.3639, "y": 0.6458, "radius": 0.045},
+      {"id": "diff2", "x": 0.6494, "y": 0.5229, "radius": 0.045},
+      {"id": "diff3", "x": 0.5678, "y": 0.67, "radius": 0.045},
+      {"id": "diff4", "x": 0.1244, "y": 0.0608, "radius": 0.045},
+      {"id": "diff5", "x": 0.8589, "y": 0.2096, "radius": 0.045},
+      {"id": "diff6", "x": 0.4222, "y": 0.5033, "radius": 0.045},
+      {"id": "diff7", "x": 0.8606, "y": 0.8263, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "12",
+    "imageOriginalPath": "assets/images/find_the_differences/level24_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level24_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.9606, "y": 0.7867, "radius": 0.045},
+      {"id": "diff2", "x": 0.5017, "y": 0.895, "radius": 0.045},
+      {"id": "diff3", "x": 0.16, "y": 0.6654, "radius": 0.045},
+      {"id": "diff4", "x": 0.23, "y": 0.4608, "radius": 0.045},
+      {"id": "diff5", "x": 0.8228, "y": 0.6983, "radius": 0.045},
+      {"id": "diff6", "x": 0.565, "y": 0.2458, "radius": 0.045},
+      {"id": "diff7", "x": 0.3078, "y": 0.4183, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "13",
+    "imageOriginalPath": "assets/images/find_the_differences/level25_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level25_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.7767, "y": 0.2054, "radius": 0.045},
+      {"id": "diff2", "x": 0.2467, "y": 0.9567, "radius": 0.045},
+      {"id": "diff3", "x": 0.3217, "y": 0.1092, "radius": 0.045},
+      {"id": "diff4", "x": 0.5944, "y": 0.2504, "radius": 0.045},
+      {"id": "diff5", "x": 0.4628, "y": 0.1288, "radius": 0.045},
+      {"id": "diff6", "x": 0.8528, "y": 0.9021, "radius": 0.045},
+      {"id": "diff7", "x": 0.3372, "y": 0.5854, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "14",
+    "imageOriginalPath": "assets/images/find_the_differences/level26_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level26_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.8106, "y": 0.6521, "radius": 0.045},
+      {"id": "diff2", "x": 0.3383, "y": 0.1254, "radius": 0.045},
+      {"id": "diff3", "x": 0.5444, "y": 0.3896, "radius": 0.045},
+      {"id": "diff4", "x": 0.4994, "y": 0.7233, "radius": 0.045},
+      {"id": "diff5", "x": 0.3111, "y": 0.3312, "radius": 0.045},
+      {"id": "diff6", "x": 0.3267, "y": 0.2125, "radius": 0.045},
+      {"id": "diff7", "x": 0.6317, "y": 0.2192, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "15",
+    "imageOriginalPath": "assets/images/find_the_differences/level27_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level27_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.562, "y": 0.7126, "radius": 0.045},
+      {"id": "diff2", "x": 0.7758, "y": 0.4174, "radius": 0.045},
+      {"id": "diff3", "x": 0.5228, "y": 0.2276, "radius": 0.045},
+      {"id": "diff4", "x": 0.51, "y": 0.1342, "radius": 0.045},
+      {"id": "diff5", "x": 0.0712, "y": 0.1924, "radius": 0.045},
+      {"id": "diff6", "x": 0.4088, "y": 0.3234, "radius": 0.045},
+      {"id": "diff7", "x": 0.3795, "y": 0.4262, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "16",
+    "imageOriginalPath": "assets/images/find_the_differences/level28_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level28_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.2644, "y": 0.5075, "radius": 0.045},
+      {"id": "diff2", "x": 0.85, "y": 0.8067, "radius": 0.045},
+      {"id": "diff3", "x": 0.455, "y": 0.5587, "radius": 0.045},
+      {"id": "diff4", "x": 0.5433, "y": 0.2171, "radius": 0.045},
+      {"id": "diff5", "x": 0.7694, "y": 0.3063, "radius": 0.045},
+      {"id": "diff6", "x": 0.4833, "y": 0.2771, "radius": 0.045},
+      {"id": "diff7", "x": 0.4972, "y": 0.7392, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "17",
+    "imageOriginalPath": "assets/images/find_the_differences/level29_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level29_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.1978, "y": 0.5467, "radius": 0.045},
+      {"id": "diff2", "x": 0.8589, "y": 0.1521, "radius": 0.045},
+      {"id": "diff3", "x": 0.4289, "y": 0.3175, "radius": 0.045},
+      {"id": "diff4", "x": 0.1822, "y": 0.1529, "radius": 0.045},
+      {"id": "diff5", "x": 0.8067, "y": 0.72, "radius": 0.045},
+      {"id": "diff6", "x": 0.3128, "y": 0.8512, "radius": 0.045},
+      {"id": "diff7", "x": 0.27, "y": 0.4838, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "18",
+    "imageOriginalPath": "assets/images/find_the_differences/level2_original.png",
+    "imageModifiedPath": "assets/images/find_the_differences/level2_modified.png",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.57, "y": 0.8638, "radius": 0.045},
+      {"id": "diff2", "x": 0.2283, "y": 0.4458, "radius": 0.045},
+      {"id": "diff3", "x": 0.6322, "y": 0.2013, "radius": 0.045},
+      {"id": "diff4", "x": 0.6639, "y": 0.5521, "radius": 0.045},
+      {"id": "diff5", "x": 0.6889, "y": 0.1521, "radius": 0.045},
+      {"id": "diff6", "x": 0.78, "y": 0.7913, "radius": 0.045},
+      {"id": "diff7", "x": 0.3967, "y": 0.1992, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "19",
+    "imageOriginalPath": "assets/images/find_the_differences/level30_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level30_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.3556, "y": 0.1475, "radius": 0.045},
+      {"id": "diff2", "x": 0.1728, "y": 0.1163, "radius": 0.045},
+      {"id": "diff3", "x": 0.4067, "y": 0.4733, "radius": 0.045},
+      {"id": "diff4", "x": 0.1294, "y": 0.335, "radius": 0.045},
+      {"id": "diff5", "x": 0.61, "y": 0.2646, "radius": 0.045},
+      {"id": "diff6", "x": 0.6144, "y": 0.1783, "radius": 0.045},
+      {"id": "diff7", "x": 0.5228, "y": 0.2029, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "20",
+    "imageOriginalPath": "assets/images/find_the_differences/level31_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level31_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.5967, "y": 0.2658, "radius": 0.045},
+      {"id": "diff2", "x": 0.425, "y": 0.6579, "radius": 0.045},
+      {"id": "diff3", "x": 0.1689, "y": 0.2496, "radius": 0.045},
+      {"id": "diff4", "x": 0.1683, "y": 0.1921, "radius": 0.045},
+      {"id": "diff5", "x": 0.2783, "y": 0.3113, "radius": 0.045},
+      {"id": "diff6", "x": 0.3572, "y": 0.1817, "radius": 0.045},
+      {"id": "diff7", "x": 0.0372, "y": 0.535, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "21",
+    "imageOriginalPath": "assets/images/find_the_differences/level32_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level32_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.9561, "y": 0.4408, "radius": 0.045},
+      {"id": "diff2", "x": 0.6706, "y": 0.2154, "radius": 0.045},
+      {"id": "diff3", "x": 0.7706, "y": 0.5312, "radius": 0.045},
+      {"id": "diff4", "x": 0.2944, "y": 0.1, "radius": 0.045},
+      {"id": "diff5", "x": 0.7728, "y": 0.1421, "radius": 0.045},
+      {"id": "diff6", "x": 0.5211, "y": 0.9433, "radius": 0.045},
+      {"id": "diff7", "x": 0.1989, "y": 0.2725, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "22",
+    "imageOriginalPath": "assets/images/find_the_differences/level5_original.png",
+    "imageModifiedPath": "assets/images/find_the_differences/level5_modified.png",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.4011, "y": 0.0621, "radius": 0.045},
+      {"id": "diff2", "x": 0.3933, "y": 0.4621, "radius": 0.045},
+      {"id": "diff3", "x": 0.365, "y": 0.3483, "radius": 0.045},
+      {"id": "diff4", "x": 0.5694, "y": 0.3933, "radius": 0.045},
+      {"id": "diff5", "x": 0.615, "y": 0.1017, "radius": 0.045},
+      {"id": "diff6", "x": 0.1228, "y": 0.6071, "radius": 0.045},
+      {"id": "diff7", "x": 0.6517, "y": 0.1304, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "23",
+    "imageOriginalPath": "assets/images/find_the_differences/level6_original.png",
+    "imageModifiedPath": "assets/images/find_the_differences/level6_modified.png",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.6694, "y": 0.9496, "radius": 0.045},
+      {"id": "diff2", "x": 0.665, "y": 0.3446, "radius": 0.045},
+      {"id": "diff3", "x": 0.4322, "y": 0.4546, "radius": 0.045},
+      {"id": "diff4", "x": 0.375, "y": 0.9637, "radius": 0.045},
+      {"id": "diff5", "x": 0.4439, "y": 0.1079, "radius": 0.045},
+      {"id": "diff6", "x": 0.2894, "y": 0.7188, "radius": 0.045},
+      {"id": "diff7", "x": 0.4528, "y": 0.1762, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "24",
+    "imageOriginalPath": "assets/images/find_the_differences/level7_original.png",
+    "imageModifiedPath": "assets/images/find_the_differences/level7_modified.png",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.669, "y": 0.8655, "radius": 0.045},
+      {"id": "diff2", "x": 0.3673, "y": 0.6029, "radius": 0.045},
+      {"id": "diff3", "x": 0.3058, "y": 0.7688, "radius": 0.045},
+      {"id": "diff4", "x": 0.7704, "y": 0.306, "radius": 0.045},
+      {"id": "diff5", "x": 0.781, "y": 0.7117, "radius": 0.045},
+      {"id": "diff6", "x": 0.5925, "y": 0.1079, "radius": 0.045},
+      {"id": "diff7", "x": 0.198, "y": 0.6866, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "25",
+    "imageOriginalPath": "assets/images/find_the_differences/level8_original.png",
+    "imageModifiedPath": "assets/images/find_the_differences/level8_modified.png",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.3046, "y": 0.7112, "radius": 0.045},
+      {"id": "diff2", "x": 0.8268, "y": 0.31, "radius": 0.045},
+      {"id": "diff3", "x": 0.5528, "y": 0.541, "radius": 0.045},
+      {"id": "diff4", "x": 0.7754, "y": 0.9289, "radius": 0.045},
+      {"id": "diff5", "x": 0.9246, "y": 0.3508, "radius": 0.045},
+      {"id": "diff6", "x": 0.1881, "y": 0.3204, "radius": 0.045},
+      {"id": "diff7", "x": 0.672, "y": 0.1891, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "26",
+    "imageOriginalPath": "assets/images/find_the_differences/level21_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level21_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.2067, "y": 0.2529, "radius": 0.045},
+      {"id": "diff2", "x": 0.095, "y": 0.8121, "radius": 0.045},
+      {"id": "diff3", "x": 0.2322, "y": 0.5354, "radius": 0.045},
+      {"id": "diff4", "x": 0.2478, "y": 0.6617, "radius": 0.045},
+      {"id": "diff5", "x": 0.6683, "y": 0.085, "radius": 0.045},
+      {"id": "diff6", "x": 0.2239, "y": 0.4217, "radius": 0.045},
+      {"id": "diff7", "x": 0.4778, "y": 0.0958, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "27",
+    "imageOriginalPath": "assets/images/find_the_differences/level33_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level33_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.3428, "y": 0.1829, "radius": 0.045},
+      {"id": "diff2", "x": 0.5967, "y": 0.8988, "radius": 0.045},
+      {"id": "diff3", "x": 0.6011, "y": 0.3154, "radius": 0.045},
+      {"id": "diff4", "x": 0.3361, "y": 0.2721, "radius": 0.045},
+      {"id": "diff5", "x": 0.6606, "y": 0.2417, "radius": 0.045},
+      {"id": "diff6", "x": 0.3372, "y": 0.1267, "radius": 0.045},
+      {"id": "diff7", "x": 0.6444, "y": 0.9225, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "28",
+    "imageOriginalPath": "assets/images/find_the_differences/level34_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level34_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.325, "y": 0.3292, "radius": 0.045},
+      {"id": "diff2", "x": 0.52, "y": 0.0387, "radius": 0.045},
+      {"id": "diff3", "x": 0.495, "y": 0.86, "radius": 0.045},
+      {"id": "diff4", "x": 0.6722, "y": 0.2575, "radius": 0.045},
+      {"id": "diff5", "x": 0.63, "y": 0.2683, "radius": 0.045},
+      {"id": "diff6", "x": 0.3444, "y": 0.4825, "radius": 0.045},
+      {"id": "diff7", "x": 0.5278, "y": 0.6046, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "29",
+    "imageOriginalPath": "assets/images/find_the_differences/level35_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level35_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.1628, "y": 0.8292, "radius": 0.045},
+      {"id": "diff2", "x": 0.5144, "y": 0.0933, "radius": 0.045},
+      {"id": "diff3", "x": 0.6217, "y": 0.4821, "radius": 0.045},
+      {"id": "diff4", "x": 0.2133, "y": 0.9146, "radius": 0.045},
+      {"id": "diff5", "x": 0.7961, "y": 0.9025, "radius": 0.045},
+      {"id": "diff6", "x": 0.3728, "y": 0.1462, "radius": 0.045},
+      {"id": "diff7", "x": 0.5761, "y": 0.1688, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "30",
+    "imageOriginalPath": "assets/images/find_the_differences/level36_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level36_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.7861, "y": 0.6871, "radius": 0.045},
+      {"id": "diff2", "x": 0.5989, "y": 0.4596, "radius": 0.045},
+      {"id": "diff3", "x": 0.3822, "y": 0.725, "radius": 0.045},
+      {"id": "diff4", "x": 0.5022, "y": 0.3137, "radius": 0.045},
+      {"id": "diff5", "x": 0.5261, "y": 0.0671, "radius": 0.045},
+      {"id": "diff6", "x": 0.4706, "y": 0.1183, "radius": 0.045},
+      {"id": "diff7", "x": 0.2933, "y": 0.5212, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "31",
+    "imageOriginalPath": "assets/images/find_the_differences/level37_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level37_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.4228, "y": 0.8208, "radius": 0.045},
+      {"id": "diff2", "x": 0.5589, "y": 0.2267, "radius": 0.045},
+      {"id": "diff3", "x": 0.8028, "y": 0.4713, "radius": 0.045},
+      {"id": "diff4", "x": 0.515, "y": 0.2967, "radius": 0.045},
+      {"id": "diff5", "x": 0.5956, "y": 0.3242, "radius": 0.045},
+      {"id": "diff6", "x": 0.5767, "y": 0.4908, "radius": 0.045},
+      {"id": "diff7", "x": 0.8, "y": 0.7446, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "32",
+    "imageOriginalPath": "assets/images/find_the_differences/level38_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level38_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.8344, "y": 0.6054, "radius": 0.045},
+      {"id": "diff2", "x": 0.3756, "y": 0.2037, "radius": 0.045},
+      {"id": "diff3", "x": 0.8628, "y": 0.2221, "radius": 0.045},
+      {"id": "diff4", "x": 0.6456, "y": 0.2104, "radius": 0.045},
+      {"id": "diff5", "x": 0.5489, "y": 0.6404, "radius": 0.045},
+      {"id": "diff6", "x": 0.6356, "y": 0.3871, "radius": 0.045},
+      {"id": "diff7", "x": 0.6361, "y": 0.2658, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "33",
+    "imageOriginalPath": "assets/images/find_the_differences/level40_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level40_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.2394, "y": 0.7608, "radius": 0.045},
+      {"id": "diff2", "x": 0.7744, "y": 0.5613, "radius": 0.045},
+      {"id": "diff3", "x": 0.3056, "y": 0.8342, "radius": 0.045},
+      {"id": "diff4", "x": 0.4067, "y": 0.2129, "radius": 0.045},
+      {"id": "diff5", "x": 0.6583, "y": 0.105, "radius": 0.045},
+      {"id": "diff6", "x": 0.6439, "y": 0.2679, "radius": 0.045},
+      {"id": "diff7", "x": 0.4722, "y": 0.065, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "34",
+    "imageOriginalPath": "assets/images/find_the_differences/level41_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level41_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.4183, "y": 0.4708, "radius": 0.045},
+      {"id": "diff2", "x": 0.9394, "y": 0.5933, "radius": 0.045},
+      {"id": "diff3", "x": 0.2661, "y": 0.2583, "radius": 0.045},
+      {"id": "diff4", "x": 0.8917, "y": 0.7238, "radius": 0.045},
+      {"id": "diff5", "x": 0.4956, "y": 0.2942, "radius": 0.045},
+      {"id": "diff6", "x": 0.1344, "y": 0.7775, "radius": 0.045},
+      {"id": "diff7", "x": 0.2117, "y": 0.5771, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "35",
+    "imageOriginalPath": "assets/images/find_the_differences/level43_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level43_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.8194, "y": 0.8533, "radius": 0.045},
+      {"id": "diff2", "x": 0.6489, "y": 0.0983, "radius": 0.045},
+      {"id": "diff3", "x": 0.3878, "y": 0.4258, "radius": 0.045},
+      {"id": "diff4", "x": 0.2733, "y": 0.7121, "radius": 0.045},
+      {"id": "diff5", "x": 0.4172, "y": 0.5933, "radius": 0.045},
+      {"id": "diff6", "x": 0.1022, "y": 0.2154, "radius": 0.045},
+      {"id": "diff7", "x": 0.2117, "y": 0.3654, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "36",
+    "imageOriginalPath": "assets/images/find_the_differences/level44_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level44_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.31, "y": 0.4587, "radius": 0.045},
+      {"id": "diff2", "x": 0.71, "y": 0.7142, "radius": 0.045},
+      {"id": "diff3", "x": 0.435, "y": 0.465, "radius": 0.045},
+      {"id": "diff4", "x": 0.3922, "y": 0.9304, "radius": 0.045},
+      {"id": "diff5", "x": 0.2839, "y": 0.9092, "radius": 0.045},
+      {"id": "diff6", "x": 0.2267, "y": 0.3192, "radius": 0.045},
+      {"id": "diff7", "x": 0.2378, "y": 0.1338, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "37",
+    "imageOriginalPath": "assets/images/find_the_differences/level45_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level45_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.6917, "y": 0.6404, "radius": 0.045},
+      {"id": "diff2", "x": 0.7861, "y": 0.8517, "radius": 0.045},
+      {"id": "diff3", "x": 0.66, "y": 0.2417, "radius": 0.045},
+      {"id": "diff4", "x": 0.52, "y": 0.395, "radius": 0.045},
+      {"id": "diff5", "x": 0.4117, "y": 0.6338, "radius": 0.045},
+      {"id": "diff6", "x": 0.345, "y": 0.5404, "radius": 0.045},
+      {"id": "diff7", "x": 0.4989, "y": 0.5546, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "38",
+    "imageOriginalPath": "assets/images/find_the_differences/level46_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level46_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.2383, "y": 0.7871, "radius": 0.045},
+      {"id": "diff2", "x": 0.2356, "y": 0.69, "radius": 0.045},
+      {"id": "diff3", "x": 0.0717, "y": 0.4412, "radius": 0.045},
+      {"id": "diff4", "x": 0.6628, "y": 0.7779, "radius": 0.045},
+      {"id": "diff5", "x": 0.4678, "y": 0.5717, "radius": 0.045},
+      {"id": "diff6", "x": 0.3572, "y": 0.3529, "radius": 0.045},
+      {"id": "diff7", "x": 0.6622, "y": 0.3879, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "39",
+    "imageOriginalPath": "assets/images/find_the_differences/level47_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level47_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.96, "y": 0.3896, "radius": 0.045},
+      {"id": "diff2", "x": 0.7733, "y": 0.4188, "radius": 0.045},
+      {"id": "diff3", "x": 0.9244, "y": 0.865, "radius": 0.045},
+      {"id": "diff4", "x": 0.135, "y": 0.3546, "radius": 0.045},
+      {"id": "diff5", "x": 0.6644, "y": 0.845, "radius": 0.045},
+      {"id": "diff6", "x": 0.1983, "y": 0.6112, "radius": 0.045},
+      {"id": "diff7", "x": 0.1189, "y": 0.5337, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "40",
+    "imageOriginalPath": "assets/images/find_the_differences/level48_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level48_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.2683, "y": 0.8438, "radius": 0.045},
+      {"id": "diff2", "x": 0.5933, "y": 0.7896, "radius": 0.045},
+      {"id": "diff3", "x": 0.1794, "y": 0.1779, "radius": 0.045},
+      {"id": "diff4", "x": 0.4356, "y": 0.3754, "radius": 0.045},
+      {"id": "diff5", "x": 0.5228, "y": 0.1079, "radius": 0.045},
+      {"id": "diff6", "x": 0.1794, "y": 0.3275, "radius": 0.045},
+      {"id": "diff7", "x": 0.2278, "y": 0.2729, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "41",
+    "imageOriginalPath": "assets/images/find_the_differences/level49_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level49_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.2017, "y": 0.9379, "radius": 0.045},
+      {"id": "diff2", "x": 0.6806, "y": 0.1204, "radius": 0.045},
+      {"id": "diff3", "x": 0.8844, "y": 0.8862, "radius": 0.045},
+      {"id": "diff4", "x": 0.4811, "y": 0.2442, "radius": 0.045},
+      {"id": "diff5", "x": 0.7094, "y": 0.0742, "radius": 0.045},
+      {"id": "diff6", "x": 0.5606, "y": 0.5854, "radius": 0.045},
+      {"id": "diff7", "x": 0.815, "y": 0.5238, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "42",
+    "imageOriginalPath": "assets/images/find_the_differences/level50_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level50_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.8533, "y": 0.6492, "radius": 0.045},
+      {"id": "diff2", "x": 0.5233, "y": 0.8029, "radius": 0.045},
+      {"id": "diff3", "x": 0.1106, "y": 0.6192, "radius": 0.045},
+      {"id": "diff4", "x": 0.9261, "y": 0.4854, "radius": 0.045},
+      {"id": "diff5", "x": 0.6033, "y": 0.2658, "radius": 0.045},
+      {"id": "diff6", "x": 0.205, "y": 0.2487, "radius": 0.045},
+      {"id": "diff7", "x": 0.3478, "y": 0.4717, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "43",
+    "imageOriginalPath": "assets/images/find_the_differences/level51_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level51_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.1194, "y": 0.4117, "radius": 0.045},
+      {"id": "diff2", "x": 0.7239, "y": 0.5883, "radius": 0.045},
+      {"id": "diff3", "x": 0.6239, "y": 0.9213, "radius": 0.045},
+      {"id": "diff4", "x": 0.2944, "y": 0.1883, "radius": 0.045},
+      {"id": "diff5", "x": 0.8972, "y": 0.37, "radius": 0.045},
+      {"id": "diff6", "x": 0.7994, "y": 0.2296, "radius": 0.045},
+      {"id": "diff7", "x": 0.5756, "y": 0.4329, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "44",
+    "imageOriginalPath": "assets/images/find_the_differences/level53_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level53_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.0911, "y": 0.5942, "radius": 0.045},
+      {"id": "diff2", "x": 0.5922, "y": 0.2025, "radius": 0.045},
+      {"id": "diff3", "x": 0.3744, "y": 0.6992, "radius": 0.045},
+      {"id": "diff4", "x": 0.5211, "y": 0.8992, "radius": 0.045},
+      {"id": "diff5", "x": 0.4911, "y": 0.0983, "radius": 0.045},
+      {"id": "diff6", "x": 0.3844, "y": 0.55, "radius": 0.045},
+      {"id": "diff7", "x": 0.7533, "y": 0.7312, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "45",
+    "imageOriginalPath": "assets/images/find_the_differences/level54_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level54_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.4556, "y": 0.8742, "radius": 0.045},
+      {"id": "diff2", "x": 0.4506, "y": 0.0375, "radius": 0.045},
+      {"id": "diff3", "x": 0.3317, "y": 0.3096, "radius": 0.045},
+      {"id": "diff4", "x": 0.5856, "y": 0.6663, "radius": 0.045},
+      {"id": "diff5", "x": 0.6644, "y": 0.5704, "radius": 0.045},
+      {"id": "diff6", "x": 0.4289, "y": 0.7083, "radius": 0.045},
+      {"id": "diff7", "x": 0.6361, "y": 0.78, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "46",
+    "imageOriginalPath": "assets/images/find_the_differences/level55_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level55_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.6467, "y": 0.6288, "radius": 0.045},
+      {"id": "diff2", "x": 0.6278, "y": 0.8179, "radius": 0.045},
+      {"id": "diff3", "x": 0.5139, "y": 0.6454, "radius": 0.045},
+      {"id": "diff4", "x": 0.6256, "y": 0.2408, "radius": 0.045},
+      {"id": "diff5", "x": 0.56, "y": 0.0938, "radius": 0.045},
+      {"id": "diff6", "x": 0.47, "y": 0.9496, "radius": 0.045},
+      {"id": "diff7", "x": 0.4433, "y": 0.4767, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "47",
+    "imageOriginalPath": "assets/images/find_the_differences/level56_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level56_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.5133, "y": 0.0825, "radius": 0.045},
+      {"id": "diff2", "x": 0.57, "y": 0.1154, "radius": 0.045},
+      {"id": "diff3", "x": 0.7161, "y": 0.4292, "radius": 0.045},
+      {"id": "diff4", "x": 0.6056, "y": 0.2108, "radius": 0.045},
+      {"id": "diff5", "x": 0.2839, "y": 0.7996, "radius": 0.045},
+      {"id": "diff6", "x": 0.5589, "y": 0.3438, "radius": 0.045},
+      {"id": "diff7", "x": 0.505, "y": 0.5379, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "48",
+    "imageOriginalPath": "assets/images/find_the_differences/level57_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level57_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.5317, "y": 0.1392, "radius": 0.045},
+      {"id": "diff2", "x": 0.3189, "y": 0.73, "radius": 0.045},
+      {"id": "diff3", "x": 0.2667, "y": 0.6029, "radius": 0.045},
+      {"id": "diff4", "x": 0.8894, "y": 0.9375, "radius": 0.045},
+      {"id": "diff5", "x": 0.6578, "y": 0.3842, "radius": 0.045},
+      {"id": "diff6", "x": 0.3828, "y": 0.23, "radius": 0.045},
+      {"id": "diff7", "x": 0.6406, "y": 0.4429, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "49",
+    "imageOriginalPath": "assets/images/find_the_differences/level58_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level58_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.1578, "y": 0.3525, "radius": 0.045},
+      {"id": "diff2", "x": 0.6883, "y": 0.9296, "radius": 0.045},
+      {"id": "diff3", "x": 0.4189, "y": 0.29, "radius": 0.045},
+      {"id": "diff4", "x": 0.7344, "y": 0.3392, "radius": 0.045},
+      {"id": "diff5", "x": 0.6106, "y": 0.3358, "radius": 0.045},
+      {"id": "diff6", "x": 0.4183, "y": 0.6754, "radius": 0.045},
+      {"id": "diff7", "x": 0.4, "y": 0.0925, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "50",
+    "imageOriginalPath": "assets/images/find_the_differences/level59_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level59_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.5228, "y": 0.6442, "radius": 0.045},
+      {"id": "diff2", "x": 0.5206, "y": 0.0704, "radius": 0.045},
+      {"id": "diff3", "x": 0.2128, "y": 0.3088, "radius": 0.045},
+      {"id": "diff4", "x": 0.6522, "y": 0.1562, "radius": 0.045},
+      {"id": "diff5", "x": 0.6394, "y": 0.8021, "radius": 0.045},
+      {"id": "diff6", "x": 0.4083, "y": 0.5508, "radius": 0.045},
+      {"id": "diff7", "x": 0.5206, "y": 0.3962, "radius": 0.045}
+    ]
+  },
+  {
+    "levelId": "51",
+    "imageOriginalPath": "assets/images/find_the_differences/level60_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level60_modified.jpg",
+    "totalDifferences": 7,
+    "differences": [
+      {"id": "diff1", "x": 0.8706, "y": 0.8017, "radius": 0.045},
+      {"id": "diff2", "x": 0.7233, "y": 0.3625, "radius": 0.045},
+      {"id": "diff3", "x": 0.2739, "y": 0.8854, "radius": 0.045},
+      {"id": "diff4", "x": 0.4706, "y": 0.5667, "radius": 0.045},
+      {"id": "diff5", "x": 0.2172, "y": 0.7388, "radius": 0.045},
+      {"id": "diff6", "x": 0.8422, "y": 0.3933, "radius": 0.045},
+      {"id": "diff7", "x": 0.32, "y": 0.6971, "radius": 0.045}
     ]
   }
 ]
