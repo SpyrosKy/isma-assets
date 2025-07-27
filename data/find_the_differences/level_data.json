@@ -376,8 +376,8 @@
   },
   {
     "levelId": "26",
-    "imageOriginalPath": "assets/images/find_the_differences/level21_original.jpg",
-    "imageModifiedPath": "assets/images/find_the_differences/level21_modified.jpg",
+    "imageOriginalPath": "assets/images/find_the_differences/level61_original.jpg",
+    "imageModifiedPath": "assets/images/find_the_differences/level61_modified.jpg",
     "totalDifferences": 7,
     "differences": [
       {"id": "diff1", "x": 0.2067, "y": 0.2529, "radius": 0.045},
